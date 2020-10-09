@@ -1,8 +1,10 @@
-<center>
+<p align="center">
+<br><strong>Hi there 👋</strong></br>
+<br><strong>🌱 I'm currently learning React</strong></br>
+<br><strong>💬 Ask me about C#</strong></br>
+</p>
 
-### Hi there 👋
-### 🌱 I'm currently learning React
-### 💬 Ask me about C#
-# [My Website](https://olivermbathurst.github.io/)
+<div align="center">
 
-</center>
+  # [My Website](https://olivermbathurst.github.io/)
+</div>
