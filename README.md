@@ -18,14 +18,16 @@
     <br/>
     <span>I am a highly self-motivated and hard-working individual, who has completed their degree in Computer Science from the University of Reading, graduating with highest honours and an academic award. I am currently working within the Healthcare sector and have a background as a Full-Stack Developer in the Risk Management and Consultancy sectors, building enterprise software. I am currently using the following stack: C#, .NET Core/.NET Framework, React, TypeScript, SQL, Azure.</span>
     <br/>
-    <li>I'm currently learning React 📚</li>
-    <li>Ask me about C# 💬</li>
+    <br/>
+    <span>I'm currently learning React 📚</span>
+    <br/>
+    <span>Ask me about C# 💬</span>
+    <br/>
     <br/>
     <span>Website status:</span>
     <br/>
     <img src="https://travis-ci.org/OliverMBathurst/olivermbathurst.github.io.svg?branch=master"/>
     <h2>Stats:</h2>
-    <hr/>
     <img src="https://github-readme-stats.vercel.app/api?username=OliverMBathurst&show_icons=true&theme=dark&count_private=true" alt="OliverMBathurst" />
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverMBathurst&theme=dark&layout=compact&langs_count=6" alt="OliverMBathurst" />
